@@ -9,28 +9,24 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/anupam-sharma-793134256/**
 
-<!--------------------------------------------------------------------------------->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.leetcode.com/ansh23_coder" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ansh23_coder" height="30" width="40" style="margin-right:10px;" />
-  </a>     
+  </a>      
   <a href="https://auth.geeksforgeeks.org/user/ansh23_coder" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ansh23_coder" height="30" width="40" style="margin-right:10px;" />
-  </a>     
+  </a>      
   <a href="https://linkedin.com/in/anupam-sharma-793134256/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anupam-sharma-793134256/" height="30" width="40" style="margin-right:10px;" />
-  </a>     
+  </a>      
   <a href="https://twitter.com/ansh23022003" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ansh23022003" height="30" width="40" style="margin-right:10px;" />
-  </a>     
+  </a>      
   <a href="https://fb.com/profile.php?id=100093683460441" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100093683460441" height="30" width="40" />
-  </a>     
+  </a>      
 </p>
-
-<!--------------------------------------------------------------------------------->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -63,3 +59,20 @@
   </a>
 </p>
 
+<div align="center">
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-top: 30px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ansh23coder&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="ansh23coder's GitHub Stats" style="max-width: 100%; height: auto;"/>
+
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh23coder&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" style="max-width: 100%; height: auto;"/>
+  </div>
+
+  <div style="margin-top: 30px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ansh23coder&theme=dark&hide_border=true" alt="GitHub Streak" style="max-width: 100%; height: auto;"/>
+  </div>
+
+  <div style="margin-top: 30px;">
+    <a href="https://www.buymeacoffee.com/ansh23coder" target="_blank">
+      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
+    </a>
+  </div>
+</div>
