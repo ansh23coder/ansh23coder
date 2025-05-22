@@ -61,13 +61,11 @@
 
 <div align="center">
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-top: 30px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ansh23coder&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="ansh23coder's GitHub Stats" style="max-width: 100%; height: auto;"/>
-
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh23coder&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" style="max-width: 100%; height: auto;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ansh23coder&show_icons=true&theme=radical" alt="ansh23coder's GitHub Stats" style="max-width: 100%; height: auto;"/>
   </div>
 
   <div style="margin-top: 30px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ansh23coder&theme=dark&hide_border=true" alt="GitHub Streak" style="max-width: 100%; height: auto;"/>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ansh23coder&theme=dark&border_radius=7.5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
   </div>
 
   <div style="margin-top: 30px;">
