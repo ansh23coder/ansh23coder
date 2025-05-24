@@ -72,10 +72,12 @@
     </tr>
   </table>
 
+<!----
   <div style="margin-top: 20px;">
     <a href="https://www.buymeacoffee.com/ansh23coder" target="_blank">
       <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px; width: 217px;" />
     </a>
   </div>
+  ---->
 </div>
 </div>
