@@ -59,24 +59,23 @@
   </a>
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=ansh23coder&theme=dark" alt="GitHub Streak" />
-  </a>
-</p>
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=ansh23coder&theme=dark&border_radius=7.5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh23coder&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh23coder&layout=compact&theme=dark" alt="Top Languages" />
-  </a>
-</p>
-
-<!----
-  <div style="margin-top: 30px;">
+  <div style="margin-top: 20px;">
     <a href="https://www.buymeacoffee.com/ansh23coder" target="_blank">
-      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
+      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px; width: 217px;" />
     </a>
   </div>
-  ---->
+</div>
 </div>
