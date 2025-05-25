@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anupam Sharma</h1>
-<h3 align="center">A Passionate B.Tech CSE student, specializing in Software and Web Development. Driven by challenges, skilled in problem-solving, eager to learn new technologies.</h3>
+<h3 align="center">A Passionate B.Tech CSE student, specializing in Software and Web Development. Driven by challenges, skilled in problem-solving, and eager to embrace new technologies. Aspiring to be a versatile software developer.</h3>
 
 - 🔭 I’m currently working on **Face Recognition with OpenCV**
 
 - 🌱 I’m currently learning **Web Development with MERN**
 
-- 🧑‍💻 I have knowledge of C/C++, JavaScript programming language, MySQL, Frontend and some AI Tools.
+- 🧑‍💻 I have knowledge of C/C++, JavaScript, Data Structures and Algorithms, MySQL, Frontend and some AI Tools.
 
 - 📫 How to reach me **https://www.linkedin.com/in/anupam-sharma-793134256/**
 
