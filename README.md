@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web Development with MERN**
 
-- 🧑‍💻 I have knowledge of C/C++, JavaScript, Data Structures and Algorithms, MySQL, Frontend and some AI Tools.
+- 🧑‍💻 I have knowledge of C/C++, JavaScript, Python, Data Structures and Algorithms, MySQL, Frontend and some AI Tools.
 
 - 📫 How to reach me **https://www.linkedin.com/in/anupam-sharma-793134256/**
 
