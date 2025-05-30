@@ -79,6 +79,9 @@
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=ansh23coder&show_icons=true&theme=radical" alt="Top Languages" />
     </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh23coder&layout=compact" />
+    </td>
   </tr>
 </table>
 
