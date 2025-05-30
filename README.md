@@ -77,7 +77,7 @@
       <img src="https://github-readme-streak-stats.herokuapp.com?user=ansh23coder&theme=dark&border_radius=7.5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh23coder&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ansh23coder&show_icons=true&theme=radical" alt="Top Languages" />
     </td>
   </tr>
 </table>
