@@ -61,12 +61,12 @@
 
 ---
 
-### 🏆 Achievements & Certifications
-
-- ⭐ Solved **310+ problems on LeetCode**
-- 📘 Solved **124+ problems on GeeksforGeeks**
-- 🧠 Earned **4⭐ in Problem Solving on HackerRank**
-- 📜 Completed **Web Development Internship at BoostUp Digital**
+🏆 Achievements & Certifications
+- ⭐ Solved 310+ problems on LeetCode
+- 📘 Solved 124+ problems on GeeksforGeeks
+- 🧠 4⭐ Rating in Problem Solving on HackerRank
+- 💻 Completed Web Development Internship at BoostUp Digital
+- 🎨 Completed Graphic Designing Role with the Oriental Group Newsletter Team
 ---
 
 ### 📊 GitHub Stats
