@@ -63,8 +63,8 @@
 
 ### 🏆 Achievements & Certifications
 
-- ⭐ Solved **280+ problems on LeetCode**
-- 📘 Solved **120+ problems on GeeksforGeeks**
+- ⭐ Solved **310+ problems on LeetCode**
+- 📘 Solved **124+ problems on GeeksforGeeks**
 - 🧠 Earned **4⭐ in Problem Solving on HackerRank**
 - 📜 Completed **Web Development Internship at BoostUp Digital**
 ---
