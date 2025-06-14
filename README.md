@@ -59,7 +59,7 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
----
+----
 
 🏆 Achievements & Certifications
 - ⭐ Solved 310+ problems on LeetCode
@@ -67,7 +67,7 @@
 - 🧠 4⭐ Rating in Problem Solving on HackerRank
 - 💻 Completed Web Development Internship at BoostUp Digital
 - 🎨 Completed Graphic Designing Role with the Oriental Group Newsletter Team
----
+----
 
 ### 📊 GitHub Stats
 
@@ -89,6 +89,7 @@
   </tr>
 </table>
 
+----
 
 <!--
 ### ☕ Support Me
