@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anupam Sharma</h1>
+<h1 align="center">Hi👋, I'm Anupam Sharma</h1>
 <h3 align="center">Passionate B.Tech Computer Science Student | Software & Web Developer | Problem Solver | Tech Enthusiast</h3>
 
 ---
