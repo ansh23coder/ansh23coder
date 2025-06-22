@@ -9,7 +9,6 @@
 - 💡 Skilled in: C/C++, JavaScript, Python, Data Structures & Algorithms, MySQL, Frontend Development, AI Tools
 - 🎯 Aspiring to become a **versatile software developer**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/anupam-sharma-793134256/)
-
 ---
 
 ### 🌐 Connect with Me
