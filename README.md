@@ -3,7 +3,7 @@
 
 ---
 
-### 🎯 About Me
+### 🎯 About Me 
 
 - 🔭 Currently working on: **Face Recognition using OpenCV**
 - 🌱 Learning: **Full-Stack Web Development (MERN Stack)**
