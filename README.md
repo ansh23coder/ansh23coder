@@ -74,19 +74,29 @@
   <tr>
     <!-- First Row: GitHub Stats & Top Languages -->
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ansh23coder&show_icons=true&theme=light" alt="GitHub Stats" />
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=ansh23coder&show_icons=true&theme=light" 
+        alt="Ansh's GitHub Stats" 
+      />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh23coder&layout=compact" alt="Top Languages" />
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh23coder&layout=compact&theme=light" 
+        alt="Ansh's Top Languages" 
+      />
     </td>
   </tr>
   <tr>
     <!-- Second Row: GitHub Streak -->
     <td align="center" colspan="2">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=ansh23coder&theme=light&border_radius=7.5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+      <img 
+        src="https://github-readme-streak-stats.herokuapp.com?user=ansh23coder&theme=light&border_radius=7.5&date_format=M%20j%5B%2C%20Y%5D" 
+        alt="Ansh's GitHub Streak" 
+      />
     </td>
   </tr>
 </table>
+
 
 ----
 
