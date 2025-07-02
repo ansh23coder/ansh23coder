@@ -46,8 +46,6 @@
 
 ### 🛠️ Languages & Tools
 
-### 🛠️ Languages & Tools
-
 <p align="left">
   <!-- C -->
   <a href="https://www.w3schools.com/c/index.php" target="_blank">
