@@ -109,22 +109,17 @@
 </a>
 <!-- Tailwind CSS -->
 <a href="https://tailwindcss.com/docs" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
 </a>
-<!-- Next.js -->
+<!-- Next.js (White Text SVG) -->
 <a href="https://nextjs.org/docs" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="Next.js" width="40" height="40"/>
 </a>
-<!-- Express.js -->
+<!-- Express.js (Alternative Logo - White Background) -->
 <a href="https://expressjs.com/en/starter/installing.html" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-</a>
-<!-- PostgreSQL -->
-<a href="https://www.postgresql.org/docs/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/330398/express.svg" alt="Express.js" width="40" height="40"/>
 </a>
 </p>
-
 
 ----
 
