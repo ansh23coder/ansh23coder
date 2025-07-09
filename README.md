@@ -4,7 +4,6 @@
 ---
 
 ### 🎯 About Me 
-
 - 🔭 Currently working on: **Face Recognition using OpenCV**
 - 🌱 Learning: **Full-Stack Web Development (MERN Stack)**
 - 💡 Skilled in: C/C++, JavaScript, Python, Data Structures & Algorithms, MySQL, Frontend Development, AI Tools
@@ -13,7 +12,6 @@
 ---
 
 ### 🌐 Connect with Me
-
 <p align="left">
   <a href="https://www.leetcode.com/ansh23_coder" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
@@ -35,9 +33,8 @@
 ---
 
 ### 💻 Tech Stack
-
 - **Languages:** C, C++, Python, JavaScript  
-- **Web Development:** HTML, CSS, Node.js, MongoDB, React  
+- **Web Development:** HTML, CSS, Tailwind CSS, Node.js, MongoDB, React 
 - **Database:** MySQL  
 - **Version Control:** Git, GitHub  
 - **Other Tools:** OpenCV, VS Code, AI Tools
@@ -45,7 +42,6 @@
 ---
 
 ### 🛠️ Languages & Tools
-
 <p align="left">
   <!-- C -->
   <a href="https://www.w3schools.com/c/index.php" target="_blank">
