@@ -33,11 +33,12 @@
 ---
 
 ### 💻 Tech Stack
-- **Languages:** C, C++, Python, JavaScript  
-- **Web Development:** HTML, CSS, Tailwind CSS, Node.js, MongoDB, React 
-- **Database:** MySQL  
-- **Version Control:** Git, GitHub  
-- **Other Tools:** OpenCV, VS Code, AI Tools
+- **Languages:** C, C++, Python, JavaScript
+- **Web Dev:** HTML, CSS, Tailwind, React, Node.js
+- **Databases:** MySQL, MongoDB
+- **Version Control:** Git, GitHub
+- **AI Tools:** ChatGPT, GitHub Copilot, Google Gemini, OpenCV
+- **Other Tools:** VS Code
 
 ---
 
@@ -120,8 +121,8 @@
 ----
 
 🏆 Achievements & Certifications
-- ⭐ Solved 328+ problems on LeetCode
-- 📘 Solved 144+ problems on GeeksforGeeks
+- ⭐ Solved 331+ problems on LeetCode
+- 📘 Solved 146+ problems on GeeksforGeeks
 - 🧠 4⭐ Rating in Problem Solving on HackerRank
 - 💻 Completed Web Development Internship at BoostUp Digital
 - 🎨 Completed Graphic Designing Role with the Oriental Group Newsletter Team
