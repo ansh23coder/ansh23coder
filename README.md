@@ -132,7 +132,7 @@
 
 <table>
   <tr>
-    <!-- First Row: GitHub Stats & Top Languages -->
+    <!-- Row 1: GitHub Stats and Top Languages -->
     <td align="center">
       <img 
         src="https://github-readme-stats.vercel.app/api?username=ansh23coder&show_icons=true&theme=light" 
@@ -147,7 +147,7 @@
     </td>
   </tr>
   <tr>
-    <!-- Second Row: GitHub Streak -->
+    <!-- Row 2: GitHub Streak -->
     <td align="center" colspan="2">
       <img 
         src="https://github-readme-streak-stats.herokuapp.com?user=ansh23coder&theme=light&border_radius=7.5&date_format=M%20j%5B%2C%20Y%5D" 
@@ -157,6 +157,17 @@
   </tr>
 </table>
 
+----
+
+## 📊 GitHub Activity Graph
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ansh23coder&theme=light" 
+    alt="GitHub Activity Graph"
+    width="700"
+  />
+</p>
 
 ----
 
