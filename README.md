@@ -1,6 +1,11 @@
 <h1 align="center"> Hi 👋, I'm Anupam Sharma</h1>
 <h3 align="center"> Passionate B.Tech Computer Science Student | Software & Web Developer | Problem Solver | Tech Enthusiast</h3>
 
+<!---
+<p align="right">
+  <img src="https://gifdb.com/images/high/computer-system-coding-j3szfjv9fwb5at9x.gif" alt="coding gif" width="300"/>
+</p>
+--->
 ---
 
 ### 🎯 About Me 
@@ -9,6 +14,7 @@
 - 💡 Skilled in: C/C++, JavaScript, Python, Data Structures & Algorithms, MySQL, Frontend Development, AI Tools
 - 🎯 Aspiring to become a **versatile software developer**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/anupam-sharma-793134256/)
+
 ---
 
 ### 🌐 Connect with Me
