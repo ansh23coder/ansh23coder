@@ -147,9 +147,9 @@
     </td>
     <td align="center">
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh23coder&layout=compact&theme=light" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh23coder&layout=compact&theme=light&langs_count=10&exclude_langs=Makefile" 
         alt="Ansh's Top Languages" 
-      />
+    />
     </td>
   </tr>
   <tr>
