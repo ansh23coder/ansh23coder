@@ -9,7 +9,7 @@
 ---
 
 ### 🎯 About Me 
-- 🔭 Currently working on: **Face Recognition using OpenCV**
+- 🔭 Currently working on: **Hackathon Project: Fake Apks Detection**
 - 🌱 Learning: **Full-Stack Web Development (MERN Stack)**
 - 💡 Skilled in: C/C++, JavaScript, Python, Data Structures & Algorithms, MySQL, Frontend Development, AI Tools
 - 🎯 Aspiring to become a **versatile software developer**
@@ -129,8 +129,8 @@
 ----
 
 🏆 Achievements & Certifications
-- ⭐ Solved 338+ problems on LeetCode
-- 📘 Solved 155+ problems on GeeksforGeeks
+- ⭐ Solved 341+ problems on LeetCode
+- 📘 Solved 157+ problems on GeeksforGeeks
 - 🧠 4⭐ Rating in Problem Solving on HackerRank
 - 💻 Completed Web Development Internship at BoostUp Digital
 - 🎨 Completed Graphic Designing Role with the Oriental Group Newsletter Team
