@@ -46,7 +46,7 @@
 - **Databases:** MySQL, MongoDB
 - **Version Control:** Git, GitHub
 - **AI Tools:** ChatGPT, GitHub Copilot, Google Gemini, OpenCV
-- **Other Tools:** VS Code
+- **Other Tools:** VS Code, Android Studio
 
 ---
 
