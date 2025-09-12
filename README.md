@@ -40,13 +40,15 @@
 --->
 
 
-### 💻 Tech Stack
-- **Languages:** C, C++, Python, JavaScript
-- **Web Dev:** HTML, CSS, Tailwind, React, Node.js
-- **Databases:** MySQL, MongoDB
-- **Version Control:** Git, GitHub
-- **AI Tools:** ChatGPT, GitHub Copilot, Google Gemini, OpenCV
-- **Other Tools:** VS Code, Android Studio
+## 💻 Tech Stack
+
+- **Languages:** C, C++, Python, JavaScript  
+- **Web Development:** HTML, CSS, Tailwind CSS, React, Node.js  
+- **Databases:** MySQL, MongoDB  
+- **Version Control:** Git, GitHub  
+- **AI Tools:** ChatGPT, GitHub Copilot, Google Gemini, OpenCV  
+- **Other Tools:** VS Code, Android Studio, Figma, Notion, Google Workspace
+
 
 ---
 
