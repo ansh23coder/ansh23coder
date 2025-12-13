@@ -9,7 +9,9 @@
 ---
 
 ### 🎯 About Me 
+<!-- 
 - 🔭 Currently working on: **AI POWERED: Smart Classroom TimeTable Scheduler**
+-->>
 - 🌱 Learning: **Full-Stack Web Development (MERN Stack)**
 - 💡 Skilled in: C/C++, JavaScript, Python, Data Structures & Algorithms, MySQL, Frontend Development, AI Tools
 - 🎯 Aspiring to become a **versatile software developer**
