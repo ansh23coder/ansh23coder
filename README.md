@@ -46,7 +46,7 @@
 
 - **Languages:** C, C++, Python, JavaScript  
 - **Web Development:** HTML, CSS, Tailwind CSS, React, Node.js  
-- **Databases:** MySQL, MongoDB  
+- **Databases:** MSSQL, MongoDB  
 - **Version Control:** Git, GitHub  
 - **AI Tools:** ChatGPT, GitHub Copilot, Google Gemini, OpenCV  
 - **Other Tools:** VS Code, Android Studio, Figma, Notion, Google Workspace
@@ -83,6 +83,10 @@
   <!-- MySQL -->
   <a href="https://dev.mysql.com/doc/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <!-- MSSQL -->
+  <a href="https://www.youtube.com/watch?v=4bTt1JbAp3M" target="_blank">
+    <img src="https://th.bing.com/th/id/OSK._v8Pt4xUbJWKKzH4r_AUqNoIigLFV3vXUf7aLMv3l1M?w=160&h=238&c=7&rs=1&qlt=80&o=6&cb=ucfimg1&dpr=1.1&pid=SANGAM&ucfimg=1" alt="MSSQL" width="40" height="40"/>
   </a>
   <!-- Node.js -->
   <a href="https://nodejs.org/" target="_blank">
