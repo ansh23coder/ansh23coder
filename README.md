@@ -8,7 +8,7 @@
 --->
 ---
 
-### 🎯 About Me 
+## 🎯 About Me 
 <!-- 
 - 🔭 Currently working on: **AI POWERED: Smart Classroom TimeTable Scheduler**
 -->
@@ -20,7 +20,7 @@
 ---
 
 <!---
-### 🌐 Connect with Me
+## 🌐 Connect with Me
 <p align="left">
   <a href="https://www.leetcode.com/ansh23_coder" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
@@ -45,16 +45,15 @@
 ## 💻 Tech Stack
 
 - **Languages:** C, C++, Python, JavaScript  
-- **Web Development:** HTML, CSS, Tailwind CSS, React, Node.js  
+- **Web Development:** HTML, CSS, Tailwind CSS, React, Django 
 - **Databases:** MSSQL, MongoDB  
 - **Version Control:** Git, GitHub  
 - **AI Tools:** ChatGPT, GitHub Copilot, Google Gemini, OpenCV  
 - **Other Tools:** VS Code, Android Studio, Figma, Notion, Google Workspace
 
-
 ---
 
-### 🛠️ Languages & Tools
+## 🛠️ Languages & Tools
 <p align="left">
   <!-- C -->
   <a href="https://www.w3schools.com/c/index.php" target="_blank">
@@ -144,11 +143,10 @@
 - 🎨 Completed Graphic Designing Role with the Oriental Group Newsletter Team
 ----
 
+<!--
 ### 📊 GitHub Stats
-
 <table>
   <tr>
-    <!-- Row 1: GitHub Stats and Top Languages -->
     <td align="center">
       <img 
         src="https://github-readme-stats.vercel.app/api?username=ansh23coder&show_icons=true&theme=light" 
@@ -163,7 +161,6 @@
     </td>
   </tr>
   <tr>
-    <!-- Row 2: GitHub Streak -->
     <td align="center" colspan="2">
       <img 
         src="https://github-readme-streak-stats.herokuapp.com?user=ansh23coder&theme=light&border_radius=7.5&date_format=M%20j%5B%2C%20Y%5D" 
@@ -172,8 +169,8 @@
     </td>
   </tr>
 </table>
-
 ----
+-->
 
 ## 📊 GitHub Activity Graph
 
