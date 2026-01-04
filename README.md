@@ -12,8 +12,8 @@
 <!-- 
 - 🔭 Currently working on: **AI POWERED: Smart Classroom TimeTable Scheduler**
 -->
-- 🌱 Learning: **Full-Stack Web Development (MERN Stack)**
-- 💡 Skilled in: C/C++, JavaScript, Python, Data Structures & Algorithms, MS SQL Server, Frontend Development, AI Tools, Vibe Coding
+- 🌱 Learning: **Full-Stack Web Development**
+- 💡 Skilled in: C/C++, JavaScript, Python, Data Structures & Algorithms, MS SQL, MongoDB, AI Tools, Vibe Coding
 - 🎯 Aspiring to become a **versatile software developer**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/anupam-sharma-793134256/)
 
