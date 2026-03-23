@@ -13,7 +13,7 @@
 - 🔭 Currently working on: **AI POWERED: Smart Classroom TimeTable Scheduler**
 -->
 - 🌱 Learning: **Full-Stack Web Development**
-- 💡 Skilled in: C/C++, JavaScript, Python, Data Structures & Algorithms, MS SQL, MongoDB, AI Tools, Vibe Coding
+- 💡 Skilled in: C/C++, JavaScript, Python, Data Structures & Algorithms, MS SQL, MongoDB, Ms EXCEL, AI Tools, Vibe Coding
 - 🎯 Aspiring to become a **versatile software developer**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/anupam-sharma-793134256/)
 
@@ -44,12 +44,12 @@
 
 ## 💻 Tech Stack
 
-- **Languages:** C, C++, Python, JavaScript  
-- **Web Development:** HTML, CSS, Tailwind CSS, React, Django 
+- **Languages:** C, C++, Python (libraries like NumPy, SciPy, Pandas), JavaScript  
+- **Web Development:** HTML, CSS, Tailwind CSS, Django 
 - **Databases:** MSSQL, MongoDB  
 - **Version Control:** Git, GitHub  
 - **AI Tools:** ChatGPT, GitHub Copilot, Google Gemini, OpenCV  
-- **Other Tools:** VS Code, Android Studio, Figma, Notion, Google Workspace
+- **Other Apps & Tools:** MS EXCEL, VS Code, Android Studio, Figma, Notion, Google Workspace
 
 ---
 
