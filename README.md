@@ -54,7 +54,8 @@
 ---
 
 ## 🛠️ Languages & Tools
-<p align="left">
+
+<div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
   <!-- C -->
   <a href="https://www.w3schools.com/c/index.php" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
@@ -68,7 +69,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
   <!-- JavaScript -->
-  <a href="https://www.geeksforgeeks.org/courses/javascript" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
   <!-- HTML5 -->
@@ -84,54 +85,46 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
   <!-- MSSQL -->
-  <a href="https://www.youtube.com/watch?v=4bTt1JbAp3M" target="_blank">
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
     <img src="https://th.bing.com/th/id/OSK._v8Pt4xUbJWKKzH4r_AUqNoIigLFV3vXUf7aLMv3l1M?w=160&h=238&c=7&rs=1&qlt=80&o=6&cb=ucfimg1&dpr=1.1&pid=SANGAM&ucfimg=1" alt="MSSQL" width="40" height="40"/>
   </a>
   <!-- Node.js -->
   <a href="https://nodejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   </a>
   <!-- Git -->
-  <a href="https://www.youtube.com/watch?v=q8EevlEpQ2A" target="_blank">
+  <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
-  <!-- JavaScript -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-</a>
-<!-- React -->
-<a href="https://reactjs.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-</a>
-<!-- Python -->
-<a href="https://www.python.org/doc/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/>
-</a>
-<!-- MongoDB -->
-<a href="https://www.mongodb.com/docs/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-</a>
-<!-- Docker -->
-<a href="https://docs.docker.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-</a>
-<!-- TypeScript -->
-<a href="https://www.typescriptlang.org/docs/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-</a>
-<!-- Tailwind CSS -->
-<a href="https://tailwindcss.com/docs" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-</a>
-<!-- Next.js (White Text SVG) -->
-<a href="https://nextjs.org/docs" target="_blank">
-  <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="Next.js" width="40" height="40"/>
-</a>
-<!-- Express.js (Alternative Logo - White Background) -->
-<a href="https://expressjs.com/en/starter/installing.html" target="_blank">
-  <img src="https://www.svgrepo.com/show/330398/express.svg" alt="Express.js" width="40" height="40"/>
-</a>
-</p>
+  <!-- React -->
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  </a>
+  <!-- MongoDB -->
+  <a href="https://www.mongodb.com/docs/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
+  <!-- Docker -->
+  <a href="https://docs.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  </a>
+  <!-- TypeScript -->
+  <a href="https://www.typescriptlang.org/docs/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  </a>
+  <!-- Tailwind CSS -->
+  <a href="https://tailwindcss.com/docs" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+  </a>
+  <!-- Next.js -->
+  <a href="https://nextjs.org/docs" target="_blank">
+    <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="Next.js" width="40" height="40"/>
+  </a>
+  <!-- Express.js -->
+  <a href="https://expressjs.com/en/starter/installing.html" target="_blank">
+    <img src="https://www.svgrepo.com/show/330398/express.svg" alt="Express.js" width="40" height="40"/>
+  </a>
+</div>
 
 ----
 
