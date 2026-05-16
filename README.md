@@ -153,7 +153,7 @@
 - 🎨 Completed Graphic Designing Role with the Oriental Group Newsletter Team
 ----
 
-
+<!--
 ### 📊 GitHub Stats
 <table>
   <tr>
@@ -180,7 +180,7 @@
   </tr>
 </table>
 ----
-
+-->
 
 ## 📊 GitHub Activity Graph
 
@@ -192,7 +192,6 @@
   />
 </p>
 
-----
 
 <!--
 ### ☕ Support Me
