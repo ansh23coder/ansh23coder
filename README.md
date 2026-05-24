@@ -153,44 +153,19 @@
 - 🎨 Completed Graphic Designing Role with the Oriental Group Newsletter Team
 ----
 
-<!--
-### 📊 GitHub Stats
-<table>
-  <tr>
-    <td align="center">
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=ansh23coder&show_icons=true&theme=light" 
-        alt="Ansh's GitHub Stats" 
-      />
-    </td>
-    <td align="center">
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh23coder&layout=compact&theme=light&langs_count=10&exclude_langs=Makefile" 
-        alt="Ansh's Top Languages" 
-    />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img 
-        src="https://github-readme-streak-stats.herokuapp.com?user=ansh23coder&theme=light&border_radius=7.5&date_format=M%20j%5B%2C%20Y%5D" 
-        alt="Ansh's GitHub Streak" 
-      />
-    </td>
-  </tr>
-</table>
-----
--->
 
-## 📊 GitHub Activity Graph
+## 📊 GitHub Activity & Stats
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ansh23coder&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ansh23coder&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+</div>
+<br/>
 
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ansh23coder&theme=light" 
-    alt="GitHub Activity Graph"
-    width="700"
-  />
-</p>
+
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ansh23coder&theme=react-dark&hide_border=true&bg_color=0d1117" width="98%" />
+</div>
 
 
 <!--
