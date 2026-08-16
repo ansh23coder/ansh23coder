@@ -8,7 +8,6 @@
   <img src="https://gifdb.com/images/high/computer-system-coding-j3szfjv9fwb5at9x.gif" alt="coding gif" width="300"/>
 </p>
 --->
----
 
 ## 🎯 About Me 
 <!-- 
