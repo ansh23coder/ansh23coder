@@ -1,6 +1,8 @@
 <h1 align="center"> Hi 👋, I'm Anupam Sharma</h1>
 <h3 align="center"> Passionate B.Tech Computer Science Student | Software & Backend Developer | Database Developer | Data Analyst (fresher) | Problem Solver | Tech Enthusiast</h3>
 
+---
+
 <!---
 <p align="right">
   <img src="https://gifdb.com/images/high/computer-system-coding-j3szfjv9fwb5at9x.gif" alt="coding gif" width="300"/>
@@ -12,9 +14,9 @@
 <!-- 
 - 🔭 Currently working on: **AI POWERED: Smart Classroom TimeTable Scheduler**
 -->
-- 🌱 Learning: **Full-Stack Web Development**
-- 💡 Skilled in: C/C++, JavaScript, Python, Data Structures & Algorithms, MS SQL, MongoDB, MS EXCEL, AI Tools, Vibe Coding
-- 🎯 Aspiring to become a **versatile software developer**
+- 🌱 Learning: **Full-Stack Web Development & Modern Deployment**
+- 💡 Skilled in: FastAPI, Django, C/C++, Python, Data Structures & Algorithms, MySQL, MS SQL, MongoDB, AI Tools, Vibe Coding
+- 🎯 Aspiring to become a **Becoming a versatile software developer**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/anupam-sharma-793134256/)
 
 ---
@@ -44,14 +46,15 @@
 
 ## 💻 Tech Stack
 
-- **Languages:** C, C++, Python (libraries like NumPy, SciPy, Pandas, Matplotlib), JavaScript  
-- **Web Development:** HTML, CSS, Tailwind CSS, Django 
-- **Databases:** MSSQL, MongoDB  
-- **Version Control:** Git, GitHub  
-- **AI Tools:** ChatGPT, GitHub Copilot, Replit, Claude, Google Gemini, OpenCV  
-- **Other Apps & Tools:** MS EXCEL, VS Code, Android Studio, Figma, Notion, Google Workspace
+- 🚀 **Languages & Foundations:** C • C++ • Python • JavaScript `(Basic)` • SQL
+- 🌐 **Backend Engineering:** FastAPI • Django • Flask `(Basic)`
+- 🎨 **Frontend Development:** HTML5 • CSS3 • Tailwind CSS `(Basic)` • JavaScript `(Basic)`
+- 🗄️ **Databases & Storage:** MS SQL Server • MySQL • SQLite • MongoDB • File-based Storage (C++/Python)
+- 📊 **Data Science Libraries:** NumPy • SciPy • Pandas • Matplotlib
+- 🔊 **GUI & Network Tooling:** Tkinter (GUI) • Socket.IO (Real-time) • Requests • pyttsx3 (TTS)
+- 🤖 **AI Ecosystems & Companions:** ChatGPT • GitHub Copilot • Replit • Claude • Google Gemini
+- 🌿 **Workspaces & Version Control:** Git • GitHub • VS Code • Figma • Notion • Google Workspace
 
----
 
 <!---
 ## 🛠️ Languages & Tools
