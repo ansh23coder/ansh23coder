@@ -1,179 +1,232 @@
-<h1 align="center"> Hi 👋, I'm Anupam Sharma</h1>
-<h3 align="center"> Passionate B.Tech Computer Science Student | Software & Backend Developer | Database Developer | Data Analyst (fresher) | Problem Solver | Tech Enthusiast</h3>
 
----
-
-<!---
-<p align="right">
-  <img src="https://gifdb.com/images/high/computer-system-coding-j3szfjv9fwb5at9x.gif" alt="coding gif" width="300"/>
-</p>
---->
-
-## 🎯 About Me 
-<!-- 
-- 🔭 Currently working on: **AI POWERED: Smart Classroom TimeTable Scheduler**
--->
-- 🌱 Learning: **Full-Stack Web Development & Modern Deployment**
-- 💡 Skilled in: FastAPI, Django, C/C++, Python, Data Structures & Algorithms, MySQL, MS SQL, MongoDB, AI Tools, Vibe Coding
-- 🎯 Aspiring to become a **Becoming a versatile software developer**
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/anupam-sharma-793134256/)
-
----
-
-<!---
-## 🌐 Connect with Me
-<p align="left">
-  <a href="https://www.leetcode.com/ansh23_coder" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/ansh23_coder" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GFG" height="30" width="40"/>
-  </a>
-  <a href="https://linkedin.com/in/anupam-sharma-793134256/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-  <a href="https://twitter.com/ansh23022003" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/>
-  </a>
-  <a href="https://fb.com/profile.php?id=100093683460441" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
-  </a>
-</p>
-
---->
-
-
-## 💻 Tech Stack
-
-- 🚀 **Languages & Foundations:** C • C++ • Python • JavaScript `(Basic)` • SQL
-- 🌐 **Backend Engineering:** FastAPI • Django • Flask `(Basic)`
-- 🎨 **Frontend Development:** HTML5 • CSS3 • Tailwind CSS `(Basic)` • JavaScript `(Basic)`
-- 🗄️ **Databases & Storage:** MS SQL Server • MySQL • SQLite • MongoDB • File-based Storage (C++/Python)
-- 📊 **Data Science Libraries:** NumPy • SciPy • Pandas • Matplotlib
-- 🔊 **GUI & Network Tooling:** Tkinter (GUI) • Socket.IO (Real-time) • Requests • pyttsx3 (TTS)
-- 🤖 **AI Ecosystems & Companions:** ChatGPT • GitHub Copilot • Replit • Claude • Google Gemini
-- 🌿 **Workspaces & Version Control:** Git • GitHub • VS Code • Figma • Notion • Google Workspace
-
-
-<!---
-## 🛠️ Languages & Tools
-<div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
-
-  
-  <a href="https://www.w3schools.com/c/index.php" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-
-  
-  <a href="https://www.geeksforgeeks.org/courses/free-cpp-course-online-certification" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-
-  
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-
-  
-  <a href="https://dev.mysql.com/doc/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-
-  
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://th.bing.com/th/id/OSK._v8Pt4xUbJWKKzH4r_AUqNoIigLFV3vXUf7aLMv3l1M?w=160&h=238&c=7&rs=1&qlt=80&o=6&cb=ucfimg1&dpr=1.1&pid=SANGAM&ucfimg=1" alt="MSSQL" width="40" height="40"/>
-  </a>
-
- 
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-
-  
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-
-  
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-
-  
-  <a href="https://www.mongodb.com/docs/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-
-  
-  <a href="https://docs.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-
-  
-  <a href="https://www.typescriptlang.org/docs/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-
-  
-  <a href="https://tailwindcss.com/docs" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
-
-  
-  <a href="https://nextjs.org/docs" target="_blank">
-    <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="Next.js" width="40" height="40"/>
-  </a>
-
-  
-  <a href="https://expressjs.com/en/starter/installing.html" target="_blank">
-    <img src="https://www.svgrepo.com/show/330398/express.svg" alt="Express.js" width="40" height="40"/>
-  </a>
-</div>
--->
-----
-
-🏆 Achievements & Certifications
-- ⭐ Solved 411+ problems on LeetCode
-- 📘 Solved 157+ problems on GeeksforGeeks
-- 🧠 4⭐ Rating in Problem Solving on HackerRank
-- 💻 Completed Web Development Internship at BoostUp Digital
-- 🎨 Completed Graphic Designing Role with the Oriental Group Newsletter Team
-----
-
-
-## 📊 GitHub Activity & Stats
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ansh23coder&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ansh23coder&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</div>
-<br/>
 
+# 👋 Hey, I'm Anupam Sharma!
 
-<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ansh23coder&theme=react-dark&hide_border=true&bg_color=0d1117" width="98%" />
+### ☁️ Aspiring Cloud Data Engineer | 🐍 Python Backend Developer
+
+*Turning data into insights and ideas into scalable solutions.*
+
 </div>
 
+---
 
-<!--
-### ☕ Support Me
+## 🚀 About Me
 
-<a href="https://www.buymeacoffee.com/ansh23coder" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px; width: 217px;" />
+💻 **Computer Science Engineer** passionate about Python, backend development, and cloud data engineering.
+
+- 🔭 **Focused on:** Python, SQL, ETL/ELT & Backend APIs
+- ☁️ **Exploring:** Azure, AWS, Databricks, PySpark & Snowflake
+- 🧠 **Problem Solving:** 568+ DSA problems on LeetCode & GeeksforGeeks
+- 📈 **Goal:** Building reliable data pipelines and scalable applications
+- 📍 **Based in:** Bhopal, India
+
+
+---
+
+## Technical Skills & Technology Stack
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Basic-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### Python Backend Development
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-Basic-000000?style=flat-square&logo=flask&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
+![Requests](https://img.shields.io/badge/Python_Requests-3776AB?style=flat-square&logo=python&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### Cloud Platforms & Data Engineering
+
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+
+**Core Concepts & Learning Areas**
+
+- ETL / ELT Pipeline Development
+- Data Extraction, Transformation & Loading
+- Data Integration & Processing
+- Data Warehousing & Data Modeling
+- Distributed Data Processing with Spark / PySpark
+- Cloud-Based Data Storage & Analytics
+- Data Quality, Validation & Pipeline Monitoring
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+### Data Analytics & Visualization
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+### Development & Productivity Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+
+### AI-Assisted Development Tools
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square)
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-F26207?style=flat-square&logo=replit&logoColor=white)
+
+---
+
+## Python Backend Development
+
+I enjoy developing backend applications and working with databases, authentication systems, and APIs.
+
+**Development Focus:**
+
+- Designing and developing RESTful APIs using Python
+- Building backend applications with Django and exploring FastAPI
+- Implementing authentication and role-based access control
+- Working with relational databases and SQL queries
+- Integrating external APIs and handling JSON data
+- Writing maintainable, modular, and reusable Python code
+- Exploring API testing, performance, and backend architecture
+
+---
+
+## Cloud & Data Engineering
+
+My primary career goal is to become a **Cloud Data Engineer**, designing reliable and maintainable data pipelines and analytics solutions.
+
+I'm building my knowledge across the modern data engineering ecosystem.
+
+| Area | Technologies / Concepts |
+|---|---|
+| Programming | Python, SQL |
+| Cloud Platforms | Microsoft Azure, AWS |
+| Data Processing | Pandas, Apache Spark, PySpark |
+| Data Platforms | Databricks, Snowflake |
+| Data Integration | ETL/ELT, Data Pipelines |
+| Data Storage | SQL Databases, Data Lakes, Data Warehouses |
+| Analytics | Power BI, Matplotlib |
+| Architecture | Data Modeling, Data Transformation, Data Quality |
+
+**Current Learning Priorities**
+
+1. Strengthening advanced SQL and Python for data engineering.
+2. Building and understanding ETL/ELT pipelines.
+3. Exploring Azure-based data engineering services.
+4. Developing practical knowledge of Databricks and PySpark.
+5. Understanding data warehousing, dimensional modeling, and pipeline orchestration.
+6. Improving data quality, monitoring, and production troubleshooting skills.
+
+---
+
+## Areas of Interest
+
+- Cloud Data Engineering
+- Python Backend Development
+- Data Pipeline Architecture
+- Big Data Processing
+- Database Design & Optimization
+- Cloud Computing
+- Data Analytics & Business Intelligence
+- Problem Solving & Algorithms
+- Software Engineering Best Practices
+
+---
+
+## Achievements & Experience
+
+### Competitive Programming
+
+| Platform | Achievement |
+|---|---|
+| [LeetCode](https://leetcode.com/ansh23_coder) | **411+** Problems Solved |
+| [GeeksforGeeks](https://auth.geeksforgeeks.org/user/ansh23_coder) | **157+** Problems Solved |
+| [HackerRank](https://www.hackerrank.com/profile/ansh23_coder) | **4-Star** Problem Solving Rating |
+
+### Professional & Extracurricular Experience
+
+**Web Development Intern — BoostUp Digital**
+
+- Completed a web development internship, gaining exposure to practical development workflows.
+
+**Graphic Designing Team — Oriental Group Newsletter**
+
+- Contributed to graphic design and visual content for the Oriental Group Newsletter.
+
+---
+
+## GitHub Activity & Statistics
+
+<div align="center">
+
+  <a href="https://github.com/ansh23coder">
+    <img
+      src="https://ghstats.dev/api/card?username=ansh23coder&theme=tokyonight&hide_border=true"
+      alt="GitHub Profile Statistics"
+      width="49%"
+    />
+  </a>
+  <a href="https://github.com/ansh23coder?tab=repositories">
+    <img
+      src="https://ghstats.dev/api/languages?username=ansh23coder&theme=tokyonight&layout=bar&hide_border=true"
+      alt="Most Used Languages"
+      width="49%"
+    />
+  </a>
+
+</div>
+
+---
+
+## Connect With Me
+
+I'm interested in collaborating and exploring opportunities in **Cloud Data Engineering, Python Backend Development, and Software Engineering**.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/anupam-sharma-793134256/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
--->
+<a href="https://github.com/ansh23coder">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://leetcode.com/ansh23_coder">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/>
+</a>
+<a href="https://auth.geeksforgeeks.org/user/ansh23_coder">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+</a>
+<a href="https://www.hackerrank.com/profile/ansh23_coder">
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black" alt="HackerRank"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+**Learning continuously. Building consistently. Growing as a Cloud Data Engineer and Python Developer.**
+
+</div>
